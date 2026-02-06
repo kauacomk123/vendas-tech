@@ -1,0 +1,1 @@
+fazer um ajuste na base de dados(vendas_tech.csv) na parte dos produtos que estão se repetindo em seguida criar uma nova base de dados
